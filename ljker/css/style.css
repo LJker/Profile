@@ -716,7 +716,7 @@ img.svg{
 	width: 40%;
 	bottom: 0px;
 	top: 15%;
-	border: 10px solid #fd4d4d;
+	/*border: 10px solid #fd4d4d;*/
 	z-index: -2;
 }
 .beny_tm_about_wrap .rightbox{
