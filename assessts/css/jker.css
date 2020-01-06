@@ -121,3 +121,7 @@ a.more-link:hover { text-decoration: none; background-color: #111111; border-rad
 .percent{
     width:10px;background-color: #333333;height: 10px;display: inline-block;
 }
+
+.percent-50{
+    width:5px;background-color: #333333;height: 10px;display: inline-block;
+}
